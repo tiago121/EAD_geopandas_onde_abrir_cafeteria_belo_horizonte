@@ -53,7 +53,7 @@ Exemplo de mapa gerado:
 * Objetivo: identificar possíveis concorrentes nas regiões
 * Processo: usar dados de endereços via webscraping, transformar endereços em coordenadas geográficas, limpar os dados e plotar, fazendo a comparação entre os melhores bairros e a concorrência.
 
-![image](https://user-images.githubusercontent.com/88745881/232543732-15b72f59-5e0b-404e-b438-d2ef712166ae.png)
+![image](https://user-images.githubusercontent.com/88745881/232545180-acfba608-263a-4b6f-b953-c58965fdaf0e.png)
 
 
 # 3. Conclusão e recomendações finais
